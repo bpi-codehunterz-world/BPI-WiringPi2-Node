@@ -1,3 +1,18 @@
+# BPI-WiringPi2-Node
+
+```
+Author:   hexzhen3x7
+Version:  0.2a
+Github:   https://github.com/bpi-codehunterz-world/BPI-WiringPi2-Node
+Website:  https://codehunterz.world || https://blackzspace.de
+```
+
+
+Description:
+
+This is a modified WiringPi - Libarys for Banana Pi's !"
+
+I DO NOT OWN ANY RIGHTS !!
 Node.js bindings to [wiringPi](http://www.wiringpi.com)
 
 Based on the awesome work of [Soarez](https://github.com/Soarez/node-wiring-pi)
